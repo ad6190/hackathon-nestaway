@@ -17,6 +17,9 @@ They could take more than 2 values, in the range of [-1,1]
 ###### Input and Output:
 Input, I did not want to parse any data. My approach is demonstrated on ipython notebook. One can run each cell and see the output. If one wants to change feature vector size, or weights, or number of clusters, then simply change the value of those variables in the file.
 
+### Requirements:
+jupyter, scikit, scipy, numpy 
+(Do check the requirements file if I missed any)
 
 
 ### Project 3 : Implement google login, but allow only certain domains to view the resource. 
